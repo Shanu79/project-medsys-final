@@ -119,7 +119,7 @@ const Sole_Proprietorship = () => {
 
 
 
-            <div className="flex bg-[#f6d5dd] h-full w-full">
+            <div className="flex  h-full w-full">
                 <div className="sm:w-1/4 hidden md:block">
                     <div className="flex flex-col sticky top-40 ml-4 my-12 p-9">
                         <div className="bg-white rounded-xl p-5">
@@ -219,7 +219,7 @@ const Sole_Proprietorship = () => {
                         </div>
                     </div>
                 </div>
-                <div className="bg-[#f6d5dd] h-full sm:w-3/4 px-5 sm:px-9 py-2">
+                <div className=" h-full sm:w-3/4 px-5 sm:px-9 py-2">
                     <div className="my-12" id="Overview">
                         <h2 className="text-3xl text-[#560216] font-bold my-4">An Overview</h2>
                         <p className="my-2">
@@ -427,7 +427,7 @@ const Sole_Proprietorship = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    a. Who can start a Sole Proprietorship?
+                                     Who can start a Sole Proprietorship?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -439,7 +439,7 @@ const Sole_Proprietorship = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    b. What type of businesses are commonly run as Sole Proprietorship?
+                                     What type of businesses are commonly run as Sole Proprietorship?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -451,7 +451,7 @@ const Sole_Proprietorship = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    c. Is the registration online or I have to submit any documents to the government office?
+                                     Is the registration online or I have to submit any documents to the government office?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -463,7 +463,7 @@ const Sole_Proprietorship = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    d. Which documents are needed for opening a current account in the name of my Sole Proprietorship?
+                                     Which documents are needed for opening a current account in the name of my Sole Proprietorship?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -475,7 +475,7 @@ const Sole_Proprietorship = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    e. What if I want to switch from a sole proprietorship to a limited liability company or a limited liability company?
+                                     What if I want to switch from a sole proprietorship to a limited liability company or a limited liability company?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -487,7 +487,7 @@ const Sole_Proprietorship = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    f. How long does it take to found a company as a sole trader?
+                                     How long does it take to found a company as a sole trader?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>

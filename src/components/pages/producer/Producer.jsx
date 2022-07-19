@@ -98,15 +98,15 @@ const Producer = () => {
         <div>
           <div className='my-2'>
             <h2 className='text-lg font-bold text-[#9D3E55]'>Name Reservation</h2>
-            <h2 className=''><span className='text-[#9D3E55] font-semibold mr-2'>  Step:1</span>We help you with your company’s name reservation. We ensure the name should have the words ‘PRODUCER COMPANY’ at the end.</h2>
+            <h2 className=''><span className='text-[#9D3E55] font-semibold mr-2'>  </span>We help you with your company’s name reservation. We ensure the name should have the words ‘PRODUCER COMPANY’ at the end.</h2>
           </div>
           <div className='my-2'>
             <h2 className='text-lg font-bold text-[#9D3E55]'>DSCs & DIN</h2>
-            <h2 className=''><span className='text-[#9D3E55] font-semibold mr-2'>  Step:1</span>We help you get 5 DSCs and 1 DIN.</h2>
+            <h2 className=''><span className='text-[#9D3E55] font-semibold mr-2'>  </span>We help you get 5 DSCs and 1 DIN.</h2>
           </div>
           <div className='my-2'>
             <h2 className='text-lg font-bold text-[#9D3E55]'>Drafting & Filing</h2>
-            <h2 className=''><span className='text-[#9D3E55] font-semibold mr-2'>  Step:1</span>We draft and file the documents required for your company registration (MoA, AoA, PAN & TAN).</h2>
+            <h2 className=''><span className='text-[#9D3E55] font-semibold mr-2'>  </span>We draft and file the documents required for your company registration (MoA, AoA, PAN & TAN).</h2>
           </div>
 
         </div>
@@ -282,7 +282,7 @@ const Producer = () => {
               <AccordionItem>
                 <AccordionItemHeading>
                   <AccordionItemButton>
-                    a. Do I need to be physically present during this process?
+                     Do I need to be physically present during this process?
                   </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -294,7 +294,7 @@ const Producer = () => {
               <AccordionItem>
                 <AccordionItemHeading>
                   <AccordionItemButton>
-                    b. How much time is needed for setting up a producer company in India?
+                     How much time is needed for setting up a producer company in India?
                   </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -306,7 +306,7 @@ const Producer = () => {
               <AccordionItem>
                 <AccordionItemHeading>
                   <AccordionItemButton>
-                    b. How much time is needed for setting up a producer company in India?
+                     How much time is needed for setting up a producer company in India?
                   </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -318,7 +318,7 @@ const Producer = () => {
               <AccordionItem>
                 <AccordionItemHeading>
                   <AccordionItemButton>
-                    c. What are the rules for picking a name for a producer company?
+                     What are the rules for picking a name for a producer company?
                   </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -330,7 +330,7 @@ const Producer = () => {
               <AccordionItem>
                 <AccordionItemHeading>
                   <AccordionItemButton>
-                    d. What documents need to be submitted to start a producer company??
+                     What documents need to be submitted to start a producer company??
                   </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -340,7 +340,7 @@ const Producer = () => {
               <AccordionItem>
                 <AccordionItemHeading>
                   <AccordionItemButton>
-                    e. What is a Digital Signature Certificate?
+                     What is a Digital Signature Certificate?
                   </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -350,7 +350,7 @@ const Producer = () => {
               <AccordionItem>
                 <AccordionItemHeading>
                   <AccordionItemButton>
-                    f. Will my producer company have a continuous existence?
+                     Will my producer company have a continuous existence?
                   </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>
@@ -360,7 +360,7 @@ const Producer = () => {
               <AccordionItem>
                 <AccordionItemHeading>
                   <AccordionItemButton>
-                    g. Will the books of a producer company need auditing?
+                     Will the books of a producer company need auditing?
                   </AccordionItemButton>
                 </AccordionItemHeading>
                 <AccordionItemPanel>

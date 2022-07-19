@@ -425,7 +425,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    a. What is a One Person Company(OPC) and how is it different from an private limited company?
+                                     What is a One Person Company(OPC) and how is it different from an private limited company?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -437,7 +437,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    b. Who is the nominee in the OPC?
+                                     Who is the nominee in the OPC?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -449,7 +449,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    c. Can my husband/wife be appointed as a nominee for my One Person Company?
+                                     Can my husband/wife be appointed as a nominee for my One Person Company?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -461,7 +461,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    d. Can a nominee be changed after incorporating the company ?
+                                     Can a nominee be changed after incorporating the company ?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -473,7 +473,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    e. Is there any threshold limit for an OPC to mandatorily get converted into either private or public company?
+                                     Is there any threshold limit for an OPC to mandatorily get converted into either private or public company?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -485,7 +485,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    f. What is Director Identification No. (DIN)?
+                                     What is Director Identification No. (DIN)?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -498,7 +498,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    g. Is Foreign Direct Investment allowed for One Person Company?
+                                     Is Foreign Direct Investment allowed for One Person Company?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -510,7 +510,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    h. Can OPC become a member of another Private Limited company?
+                                     Can OPC become a member of another Private Limited company?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -522,7 +522,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    i. Whether an OPC can be converted into a Private/Public Limited Company and vice versa?
+                                     Whether an OPC can be converted into a Private/Public Limited Company and vice versa?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -534,7 +534,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    j. Do you have to be present in person to incorporate a One Person Company in India?
+                                     Do you have to be present in person to incorporate a One Person Company in India?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -546,7 +546,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    k. Does OPC have any tax advantage?
+                                     Does OPC have any tax advantage?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -558,7 +558,7 @@ const OnePersonCompany = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    l. Can I use my residential address as the registered office address for my company?
+                                     Can I use my residential address as the registered office address for my company?
 
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
@@ -581,8 +581,9 @@ const OnePersonCompany = () => {
                         </Accordion>
                     </div>
                 </div>
-      <ContactForm/>
+      
             </div>
+            <ContactForm/>
         </>
     );
 }

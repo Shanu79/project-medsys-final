@@ -474,7 +474,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    a. What Documents are Required for Prior permission registration?
+                                     What Documents are Required for Prior permission registration?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -486,7 +486,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    b. Can FCRA registration be renewed?
+                                     Can FCRA registration be renewed?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -498,7 +498,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    c. Whether donation given by an individual of Indian origin and having foreign nationality is treated as 'foreign contribution'?
+                                     Whether donation given by an individual of Indian origin and having foreign nationality is treated as 'foreign contribution'?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -510,7 +510,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    d. Can foreign contribution be received in rupees?
+                                     Can foreign contribution be received in rupees?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -522,7 +522,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    e. Whether income or any other income earned from foreign contribution be considered foreign contribution?
+                                     Whether income or any other income earned from foreign contribution be considered foreign contribution?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -534,7 +534,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    f. Can a foreign contribution be mixed with Local Receipts?
+                                     Can a foreign contribution be mixed with Local Receipts?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -546,7 +546,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    g. Whether infusion of foreign share capital in a company registered under section 8 of the Companies Act 2013, attracts the provision of FCRA, 2010?
+                                     Whether infusion of foreign share capital in a company registered under section 8 of the Companies Act 2013, attracts the provision of FCRA, 2010?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -558,7 +558,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    h. What are the different types of FCRA Registration?
+                                     What are the different types of FCRA Registration?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -570,7 +570,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    i. What is the compliance required after FCRA Registration?
+                                     What is the compliance required after FCRA Registration?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -584,7 +584,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    j. What is the due date of filing an annual return by the FCRA registered entity?
+                                     What is the due date of filing an annual return by the FCRA registered entity?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -596,7 +596,7 @@ const FCRA_Registration = () => {
                             <AccordionItem>
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                        k. Still Confused?
+                                         Still Confused?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
                                 <AccordionItemPanel>
@@ -608,7 +608,6 @@ const FCRA_Registration = () => {
                         </Accordion>
                     </div>
                 </div>
-      <ContactForm/>
 
             </div>
         <ContactForm />

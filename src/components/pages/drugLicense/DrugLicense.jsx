@@ -40,7 +40,7 @@ function Header() {
                 marginTop: '0rem',
             }}>
             <div className="header-left-content">
-                <h1>Central FSSAI License</h1> <br />
+                <h1>Drug License</h1> <br />
                 <p>The authority issue the Food License to that business who is engaged in activities involving food or related
                     products for human consumption and
                     lays down the rules  regulations which has to be adhered to by Food Business Operators in India.</p><br />
