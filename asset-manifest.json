@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.d482f436.css",
+    "main.css": "/react-gh-pages/static/css/main.40abc46f.css",
     "main.js": "/react-gh-pages/static/js/main.2f439cca.js",
     "static/media/careerHeader.png": "/react-gh-pages/static/media/careerHeader.aa04342f05b3fae0c479.png",
+    "static/media/Contact Us Page Header Image.png": "/react-gh-pages/static/media/Contact Us Page Header Image.b7fedf7f33496fad4b47.png",
     "static/media/bg1.png": "/react-gh-pages/static/media/bg1.8d605164686a51096808.png",
     "static/media/1.png": "/react-gh-pages/static/media/1.807588e86f2b846d5c7b.png",
     "static/media/blogHeader.png": "/react-gh-pages/static/media/blogHeader.10eab4a1fb61f36f9612.png",
@@ -14,8 +15,10 @@
     "static/media/Sole Proprietorship Page.png": "/react-gh-pages/static/media/Sole Proprietorship Page.f37580a48cb78727c364.png",
     "static/media/Barcode Page Image 3.png": "/react-gh-pages/static/media/Barcode Page Image 3.d8a1434f96c7ce8a4257.png",
     "static/media/APEDA Registration Page Image.png": "/react-gh-pages/static/media/APEDA Registration Page Image.9ce01b91fb88a6a8779b.png",
+    "static/media/parnterBw.png": "/react-gh-pages/static/media/parnterBw.93d55e90984c3ed3cb67.png",
     "static/media/MSME Page Image.png": "/react-gh-pages/static/media/MSME Page Image.2821c0c5dae7b9035237.png",
     "static/media/bg.png": "/react-gh-pages/static/media/bg.05deab9bb8631328d44a.png",
+    "static/media/clientsBg2.png": "/react-gh-pages/static/media/clientsBg2.e5766cc9b90afcdd7edc.png",
     "static/media/One Person Company Image.png": "/react-gh-pages/static/media/One Person Company Image.8e6579e1367e086f345a.png",
     "static/media/Branding.png": "/react-gh-pages/static/media/Branding.fc3cc844e33dd747625c.png",
     "static/media/Product Development & Design.png": "/react-gh-pages/static/media/Product Development & Design.e53a1c0e8c4ead6c8394.png",
@@ -85,11 +88,11 @@
     "static/media/Lower TDS rate.svg": "/react-gh-pages/static/media/Lower TDS rate.58401e21d025be91c4ed9a7835f13d39.svg",
     "static/media/Title of Work.svg": "/react-gh-pages/static/media/Title of Work.b9ae5535121c22ac7619356128e0d9b1.svg",
     "index.html": "/react-gh-pages/index.html",
-    "main.d482f436.css.map": "/react-gh-pages/static/css/main.d482f436.css.map",
+    "main.40abc46f.css.map": "/react-gh-pages/static/css/main.40abc46f.css.map",
     "main.2f439cca.js.map": "/react-gh-pages/static/js/main.2f439cca.js.map"
   },
   "entrypoints": [
-    "static/css/main.d482f436.css",
+    "static/css/main.40abc46f.css",
     "static/js/main.2f439cca.js"
   ]
 }
