@@ -1,6 +1,7 @@
 import React from 'react'
-import ContactForm from './ContactForm';
-import { TabTitle } from './Utillity'
+import ContactForm from '../ContactForm';
+import { TabTitle } from '../Utillity';
+import './contact.css'
 
 export default function Contact(props) {
     TabTitle("Contact Us - medsysconsultancy.com");

@@ -2,13 +2,13 @@ import React from 'react'
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Autoplay } from "swiper";
-import { TabTitle } from './Utillity';
+import { TabTitle } from '../Utillity';
 import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import 'swiper/css/autoplay';
-import HowWeWork from './HowWeWork';
-
+import HowWeWork from '../HowWeWork';
+import './home.css'
 export default function Home() {
     TabTitle("Home - medsysconsultancy.com");
     return (

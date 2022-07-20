@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import Feedback from "../feedback/Feedback";
+import './footer.css'
 export default function Footer() {
   const [modalOn, setModalOn] = useState(false);
 

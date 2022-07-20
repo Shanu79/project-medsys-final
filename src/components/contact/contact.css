@@ -18,7 +18,7 @@ section.header-bottom .inner {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url("/assets/img/headerImgs/Contact\ Us\ Page\ Header\ Image.png") no-repeat center center/cover;
+    background: url("Contact\ Us\ Page\ Header\ Image.png") no-repeat center center/cover;
 }
 
 

@@ -3,6 +3,7 @@ import React from 'react'
 import img1 from "./FCRA.png"
 import img3 from "./CSR.png"
 import imgHeader from "./blogHeader.png"
+import './blog.css'
 export default function BlogPost() {
     return (
         <>

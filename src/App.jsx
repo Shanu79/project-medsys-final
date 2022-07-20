@@ -1,9 +1,9 @@
 import { TabTitle } from "./components/Utillity";
 import Footer from "./components/footer/Footer";
 import AboutUs from "./components/aboutUs/AboutUs";
-import Contact from "./components/Contact";
+import Contact from "./components/contact/Contact";
 import Navbar from "./components/Navbar/Navbar";
-import Home from "./components/Home";
+import Home from "./components/home/Home";
 import Blog from "./components/ResponsiveBlogTemplate/Blog"
 import Career from "./components/Career/Career";
 import Process from "./components/Process";
